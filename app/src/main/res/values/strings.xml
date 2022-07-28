@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">To_do_list</string>
+    <string name="title_activity_tab_layout">Tab_Layout</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
